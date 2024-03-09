@@ -1,0 +1,6 @@
+@AspCoreServer_HostAddress = http://localhost:5020
+
+GET {{AspCoreServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
