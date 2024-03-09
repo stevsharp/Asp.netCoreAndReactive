@@ -4,7 +4,6 @@ Project Overview
 This project showcases the implementation of a simple ASP.NET Core 8 application with features including:
 
 Fluent Validation: Fluent Validation is utilized for validating incoming requests.
-
 Mediator Pattern: Mediator Pattern is employed to decouple request handling and promote better maintainability and scalability.
 
 Reactive Extensions (Rx): Reactive Extensions are used to handle asynchronous and event-based programming efficiently.
@@ -33,11 +32,9 @@ Alternatively, you can run the project using Visual Studio or your preferred IDE
 Dependencies
 The project relies on the following dependencies:
 
-FluentValidation.AspNetCore: A popular .NET library for fluent validation in ASP.NET Core applications.
-
-MediatR: A simple, unambitious mediator implementation in .NET for handling commands, queries, and events.
-
-System.Reactive: Reactive Extensions (Rx) library for composing asynchronous and event-based programs using observable sequences.
+#FluentValidation.AspNetCore: A popular .NET library for fluent validation in ASP.NET Core applications.
+#MediatR: A simple, unambitious mediator implementation in .NET for handling commands, queries, and events.
+#System.Reactive: Reactive Extensions (Rx) library for composing asynchronous and event-based programs using observable sequences.
 
 Usage
 Once the project is running, you can interact with the application using HTTP requests.
@@ -54,7 +51,3 @@ This project is licensed under the MIT License.
 Credits
 This project is maintained by stevsharp. Special thanks to the contributors who have helped make this project better.
 
-Contact
-For any inquiries or support, please contact stevsharp@example.com.
-
-Feel free to customize this README according to your specific project details and preferences.
