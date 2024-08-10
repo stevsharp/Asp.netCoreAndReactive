@@ -51,3 +51,7 @@ This project is licensed under the MIT License.
 Credits
 This project is maintained by stevsharp. Special thanks to the contributors who have helped make this project better.
 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
+
